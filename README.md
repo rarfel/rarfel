@@ -1,7 +1,7 @@
-let apresentacao = {
-  name:"Rafael",
-  age:"18",
-  learning: ['javascript','HTML','CSS','sql','php']
+let apresentacao = {  
+&emsp;name: "Rafael",  
+&emsp;age: "18",  
+&emsp;learning: ['javascript', 'HTML', 'CSS', 'sql', 'php']  
 }
 
-console.log(JSON.stringify(apresentacao,null,2))
+console.log(JSON.stringify( apresentacao, null, 2))
