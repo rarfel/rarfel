@@ -1,7 +1,7 @@
 let apresentacao = {  
 &emsp;name: "Rafael",  
-&emsp;age: "18",  
-&emsp;learning: ['javascript', 'HTML', 'CSS', 'sql', 'php']  
+&emsp;age: "19",  
+&emsp;learning: ['cpp', 'js', 'html', 'css', 'sql']  
 }
 
 console.log(JSON.stringify( apresentacao, null, 2))
